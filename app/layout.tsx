@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Patriots Forge",
   description: "Custom firearms and tactical gear",
